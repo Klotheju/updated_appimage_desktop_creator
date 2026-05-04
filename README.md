@@ -1,3 +1,5 @@
+**[Credits: **adrfrank** (Original Creator)](https://github.com/adrfrank/appimage_desktop_creator)**
+
 # AppImage Desktop Creator (Updated)
 
 A Python script that automatically creates desktop entries for AppImage files. It monitors a specified directory (and its subdirectories) for AppImage files and creates corresponding `.desktop` files, making your AppImages easily accessible from your desktop environment.
