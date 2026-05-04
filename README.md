@@ -30,8 +30,8 @@ A Python script that automatically creates desktop entries for AppImage files. I
 
 1. Clone this repository or download the script:
 ```bash
-git clone https://github.com/Klotheju/appimage_desktop_creator
-cd appimage_desktop_creator
+git clone https://github.com/Klotheju/updated_appimage_desktop_creator
+cd updated_appimage_desktop_creator
 ```
 
 2. Install the required Python package:
